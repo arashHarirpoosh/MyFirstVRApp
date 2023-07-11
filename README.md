@@ -19,7 +19,7 @@ Project 3: [MyFirstVRApp]
 	9. The character will be teleported 100 units in the sky by clicking L2 (LB).
 
 ### Project 2: [SolarSystemSimulation]
-#### Implemented Features:
+#### Implemented Features
 	1. Using the Spring Arm component to perform the planet's orbital rotation around the sun or Earth.
 	2. Cameras can be switched by pressing the C button.
  

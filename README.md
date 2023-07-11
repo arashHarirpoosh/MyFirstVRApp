@@ -5,6 +5,7 @@ This repository contains my projects for the Immersive Technologies course, impl
 Project 1: [MyFirstUEApp]
 Project 2: [SolarSystemSimulation]
 Project 3: [MyFirstVRApp]
+
 ### Project 1: [MyFirstUEApp]
 #### Implemented Features:
 	1. Adding different shapes to the map.

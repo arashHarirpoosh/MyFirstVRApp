@@ -2,11 +2,11 @@
 This repository contains my projects for the Immersive Technologies course, implemented using Unreal Engine 5.1.
 
 ## Table of Contents
-- [Project 1: MyFirstUEApp](#project-1)
-- [Project 2: SolarSystemSimulation](#project-2)
-- [Project 3: MyFirstVRApp](#project-3)
+- [Project 1: MyFirstUEApp](###project-1)
+- [Project 2: SolarSystemSimulation](###project-2)
+- [Project 3: MyFirstVRApp](###project-3)
 
-### Project 1: [MyFirstUEApp]
+### Project 1: [MyFirstUEApp](https://github.com/arashHarirpoosh/MyUE5.1PlayGround/tree/main/1.MyFirstUE5.1App)
 #### Implemented Features:
 1. Adding different shapes to the map.
 2. The W/S keys on the keyboard can be used to move forward or backward.
@@ -18,12 +18,12 @@ This repository contains my projects for the Immersive Technologies course, impl
 8. The character will be teleported 100 units to the right by clicking R1 (RT).
 9. The character will be teleported 100 units in the sky by clicking L2 (LB).
 
-### Project 2: [SolarSystemSimulation]
+### Project 2: [SolarSystemSimulation](https://github.com/arashHarirpoosh/MyUE5.1PlayGround/tree/main/2.SolarSystemSimulation)
 #### Implemented Features:
 1. Using the Spring Arm component to perform the planet's orbital rotation around the sun or Earth.
 2. Cameras can be switched by pressing the C button.
  
-### Project 3: [MyFirstVRApp]
+### Project 3: [MyFirstVRApp](https://github.com/arashHarirpoosh/MyUE5.1PlayGround/tree/main/3.MyFirstVRApp)
 #### Implemented features:
 1. The joystick of the left controller is used to perform the character's Rotation
 2. The joystick of the right controller is used to perform the character's Movement
